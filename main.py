@@ -5,3 +5,4 @@ def close10(x, y, z):
         return (0) 
     else:
         return (y)
+        print(close10(5, 12))
